@@ -1,0 +1,13 @@
+body{
+  font-family: 'Oswald', sans-serif;
+}
+
+.content{
+  border: solid black 1px;
+  padding: 0 5px;
+  margin: 15px 0px;
+  background-color: lightgray;
+}
+#bs-example-navbar-collapse-1{
+  background-color: lightgray;
+}
